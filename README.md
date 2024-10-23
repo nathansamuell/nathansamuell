@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### About Me!
-- Honors CS/CIS/Philosophy Student @ UH
+- Honors CS/Philosophy Student @ UH
 - Avid Musician
 - Outdoors Enthusiast
 - A little too good at thinking
