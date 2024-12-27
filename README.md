@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 ### About My Work:
 - Avionics Team Lead @ Space City Rocketry
-- Creator of GroundStation: a plug-and-play customizable rocket monitoring software
-- App Developer @ CircuitCider
+- Creator of FlightControl: a plug-and-play customizable rocket monitoring software
+- Full Stack developer @ [Code[COOGS]](https://www.codecoogs.com/)
 - Backend Developer @ New Era Thrift
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathansamuell&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
