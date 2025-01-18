@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 
 ### About My Work:
+- SWE Intern @ NASA JSC (Sponsor company KBR)
 - Avionics Team Lead @ Space City Rocketry
 - Creator of FlightControl: a plug-and-play customizable rocket monitoring software
 - Full Stack developer @ [Code[COOGS]](https://www.codecoogs.com/)
