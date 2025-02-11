@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - Honors CS/Philosophy Student @ UH
 - Avid Musician
 - Outdoors Enthusiast
-- A little too much of a thinker
+- Probably thinking about something
 
 
 ### About My Work:
