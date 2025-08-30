@@ -23,11 +23,10 @@ Here are some ideas to get you started:
 
 
 ### About My Work:
-- SWE Intern @ NASA JSC (Sponsor company KBR)
-- Avionics Team Lead @ Space City Rocketry
-- Creator of FlightControl: a plug-and-play customizable rocket monitoring software
-- Full Stack Developer @ [Code[COOGS]](https://www.codecoogs.com/)
-- Backend Developer @ GhostMath
+- GNC/SWE OpNav Intern @ NASA JSC (OSTEM)
+- Prev. SWE/Flight Ops Intern @ NASA JSC (Sponsor company KBR)
+- Avionics Team Lead, Embedded Developer @ Space City Rocketry
+- SWD Director @ [Code[COOGS]](https://www.codecoogs.com/)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathansamuell&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 -->
