@@ -16,14 +16,15 @@ Here are some ideas to get you started:
 -->
 
 ### About Me!
-- Honors CS/Philosophy Student @ UH
+- Honors CS + EE/Philosophy Student @ UH
 - Avid Musician
 - Outdoors Enthusiast
 - Probably thinking about something
 
 
 ### About My Work:
-- GNC/SWE OpNav Intern @ NASA JSC (OSTEM)
+- SWE/Network Engineering Intern @ NASA JSC (OSTEM)
+- Prev. GNC/SWE OpNav Intern @ NASA JSC (OSTEM)
 - Prev. SWE/Flight Ops Intern @ NASA JSC (Sponsor company KBR)
 - Avionics Team Lead, Embedded Developer @ Space City Rocketry
 - SWD Director @ [Code[COOGS]](https://www.codecoogs.com/)
