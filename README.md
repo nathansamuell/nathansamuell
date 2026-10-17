@@ -17,17 +17,19 @@ Here are some ideas to get you started:
 
 ### About Me!
 - Honors CS + EE/Philosophy Student @ UH
-- Avid Musician
+- Avid Musician + Climber
 - Outdoors Enthusiast
 - Probably thinking about something
 
 
 ### About My Work:
-- SWE/Network Engineering Intern @ NASA JSC (OSTEM)
+- Orion BFS GNC SWE @ NASA JSC (Pathways)
+- Prev. GNC/SWE Intern TRON/R5 @ NASA JSC (OSTEM)
+- Prev. SWE/Network Engineering Intern @ NASA JSC (OSTEM)
 - Prev. GNC/SWE OpNav Intern @ NASA JSC (OSTEM)
 - Prev. SWE/Flight Ops Intern @ NASA JSC (Sponsor company KBR)
 - Avionics Team Lead, Embedded Developer @ Space City Rocketry
-- SWD Director @ [Code[COOGS]](https://www.codecoogs.com/)
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathansamuell&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 -->
